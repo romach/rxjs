@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romach/rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romach/rxjs/issues"
+  },
+  "homepage": "https://github.com/romach/rxjs#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
+}
